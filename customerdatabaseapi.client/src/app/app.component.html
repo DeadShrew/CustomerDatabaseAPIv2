@@ -1,0 +1,10 @@
+
+
+<ul>
+  <li *ngFor="let customer of customerList">{{ customer.firstName + " " + customer.lastName}}</li>
+</ul>
+
+
+<pre>
+  {{ customerList | json }}
+</pre>

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ym3438\\source\\repos\\CustomerDatabaseAPI\\CustomerDatabaseAPI.Server\\..\\customerdatabaseapi.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
